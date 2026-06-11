@@ -1,0 +1,11 @@
+my-static-website/
+├── index.html          # Home page
+├── about.html          # About Us
+├── contact.html        # Contact page
+├── theme.html          # Topic page (e.g., AI, Cloud)
+├── services.html       # Additional page
+├── css/
+│   └── style.css       # Stylesheet
+├── js/
+│   └── script.js       # JavaScript
+└── images/             # Your images here
