@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is Cloud Computing?</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">CloudHub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="theme.html">Cloud Computing</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-content">
+        <h1>What is Cloud Computing?</h1>
+        <p>Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.</p>
+
+        <h2>Three Main Service Models</h2>
+        <ul>
+            <li><strong>IaaS</strong> — Infrastructure as a Service (e.g., AWS EC2)</li>
+            <li><strong>PaaS</strong> — Platform as a Service (e.g., AWS Elastic Beanstalk)</li>
+            <li><strong>SaaS</strong> — Software as a Service (e.g., Google Drive)</li>
+        </ul>
+
+        <h2>Key Benefits</h2>
+        <ul>
+            <li>✅ No need to manage physical servers</li>
+            <li>✅ Automatically scale up and down</li>
+            <li>✅ Pay only for what you use</li>
+            <li>✅ Global reach in minutes</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 CloudHub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
