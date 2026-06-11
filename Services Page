@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">CloudHub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="theme.html">Cloud Computing</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-content">
+        <h1>Our Cloud Services</h1>
+        <div class="services-grid">
+            <div class="service-card">
+                <h3>☁️ Cloud Hosting</h3>
+                <p>Reliable and scalable hosting solutions for your applications.</p>
+            </div>
+            <div class="service-card">
+                <h3>💾 Data Storage</h3>
+                <p>Secure and durable object storage with AWS S3.</p>
+            </div>
+            <div class="service-card">
+                <h3>🤖 Machine Learning</h3>
+                <p>Leverage AI/ML tools on the cloud for smarter insights.</p>
+            </div>
+            <div class="service-card">
+                <h3>🔐 Cybersecurity</h3>
+                <p>Protect your infrastructure with cloud-native security tools.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 CloudHub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
